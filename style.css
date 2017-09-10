@@ -1,0 +1,333 @@
+/*
+Theme Name: Nemovitost s břemenem - Purple 1.0
+Theme URI: https://jakubrychly.cz
+Description: Šablona pro web nemovitostsbremenem.cz
+Author: Jakub Rychlý
+Version: 1.0
+License: Název licence
+Tags: nemovitost
+*/
+
+.header {
+	padding: 25px;
+}
+
+.header-nadpis {
+	color: #8B008B;
+	font-size: 45px;
+	font-weight: bold;
+}
+
+.header-text {
+	color: #a6a6a6;
+	font-size: 26px;
+	text-align: right;
+	font-weight: bold;
+}
+
+.header-telefon {
+	font-size: 40px;
+	color: #a6a6a6;
+	padding-top: 22px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.navbar {
+	background-color: #8B008B;
+	text-transform: uppercase;
+	font-size: 20px;
+}
+
+.page_item {
+	color: white;
+	margin-right: 25px;
+}
+
+.page_item:hover {
+	color: #e5d0e5;
+}
+
+.fa-purple {
+	color: #8B008B;
+}
+
+.top {
+	background-image: url(https://hillsea.rentals/wp-content/uploads/2014/10/finding-the-right-real-estate-agent.jpg);
+	background-size: 100% 100%;
+	height: 70vh;
+	width: 100%;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.top-h {
+	background-image: url(http://www.nemovitostsbremenem.cz/wp-content/uploads/2017/08/grandpa.jpg);
+	background-size: 100% 100%;
+	height: 50vh;
+	width: 100%;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text {
+	color: #737373;
+}
+
+.btn-success {
+	background-color: #8B008B;
+	border: 2px solid #770277;
+}
+
+.btn-success:hover {
+	background-color: #770277;
+	border: 2px solid #770277;
+}
+
+.text-home {
+	margin-top: 25px;
+	font-size: 28px;
+	text-align: center;
+	color: #a6a6a6;
+	font-style: italic;
+}
+
+.how-to {
+	margin-top: 25px;
+font-style: italic;
+margin-bottom: 25px;
+}
+
+.text-first {
+	margin-top: 25px;
+	font-size: 28px;
+	text-align: center;
+	font-style: italic;
+	margin-bottom: 25px;
+}
+
+.how-link {
+	color: #8B008B;
+	text-decoration: underline;
+}
+
+.how-link:hover {
+	color: #8B008B;
+}
+
+.img-dum {
+	margin-top: 25px;
+}
+
+.first-right {
+	margin-top: 40px;
+}
+
+.text-money {
+	font-size: 35px;
+	text-align: center;
+	color: black;
+	font-style: italic;
+	padding: 15px;
+	color: white;
+}
+
+.money {
+	width: 60%;
+	margin-left: 20%;
+	height: auto;
+	background-color: #8B008B;
+	margin-top: 80px;
+	border-radius: 10px;
+	position: absolute;
+}
+
+.fa-circle {
+	color: #8B008B;
+}
+
+.formularik {
+	margin-top: -40px;
+}
+
+.container {
+	padding-bottom: 35px;
+}
+
+.footer {
+	background-color: #8B008B;
+	padding: 25px;
+	color: white;
+}
+
+.nadpis-center {
+	text-align: center;
+	font-style: italic;
+	color: #898888;
+	font-size: 32px;
+}
+
+.social-icons {
+	text-align: center;
+}
+
+.footer-kontakt {
+	font-size: 25px;
+	text-align: center;
+}
+
+.button {
+	padding: 15px;
+	background-color: #8B008B;
+	color: white;
+	border-radius: 25px;
+}
+
+img {
+	border-radius: 25px;
+}
+
+.btn-purple {
+	font-size: 25px;
+	border-radius: 10px;
+	margin-top: 15px;
+}
+
+.button-kon {
+	text-align: right;
+	padding: 15px;
+}
+
+.btn-purple-2 {
+	padding: 15px;
+	border-radius: 10px;
+	margin-top: 15px;
+}
+
+.button:hover {
+	color: #e5d0e5;
+	text-decoration: none;
+}
+
+.text-facebook {
+    color: #3b5998;
+}
+
+.text-twitter {
+    color: #55acee;
+}
+
+.text-instagram {
+    color: #406e94;
+}
+
+.co-footer {
+	background-color: #720072;
+	color: white;
+	padding: 15px;
+}
+
+.link {
+	color: white;
+}
+
+.link:hover {
+	color: white;
+}
+
+.full {
+	padding: 50px;
+	text-align: center;
+}
+
+.btn-kontakt {
+	border-radius: 25px;
+}
+
+.paralax {
+	background-image: url(http://cdn.pieria.co.uk/new_live/dr/section_main/277.jpg);
+	background-size: 100% 100%;
+	padding: 85px;
+	width: 100%;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    color: #8B008B;
+}
+
+p { 
+	color: #737373;
+}
+
+.formik {
+	padding: 15px;
+}
+
+.bla {
+	background:rgba(255,255,255, 0.7);
+	border-radius: 25px;
+}
+
+.nadpis-kontakt {
+	font-size: 40px;
+	color: #8B008B; 
+	text-align: center;
+	margin-top: 15px;
+}
+
+.text-form {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+/* Media queries */
+
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 576px) { 
+	.top {
+		height: 100vh;
+	}
+
+	.footer-kontakt {
+	font-size: 17px;
+	}
+
+	.top-h {
+		height: 60vh;
+	}
+
+	.btn {
+		width: 100%;
+	}
+
+.text-money {
+	font-size: 28px;
+}
+
+.paralax {
+	font-size: 28px;
+}
+
+.btn {
+	font-size: 15px;
+}
+
+.full {
+	font-size: 18px;
+}
+
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { .navbar {
+		padding-left: 120px;
+	} .co-footer {text-align: center;}}
